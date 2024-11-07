@@ -55,7 +55,7 @@ Domain: example.com
 
 ## Project Structure
 
-- `domainintel.py` – Main script that handles all DNS, HTTP, and SSL queries.
+- `app.py` – Main script that handles all DNS, HTTP, and SSL queries.
 - `README.md` – Project description, usage, and instructions.
 
 ## License
