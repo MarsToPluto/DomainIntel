@@ -18,13 +18,13 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DomainIntel.git
+   git clone https://github.com/MarsToPluto/DomainIntel.git
    cd DomainIntel
    ```
 
 2. Run the script with the desired domain:
    ```bash
-   python domainintel.py example.com
+   python app.py example.com
    ```
 
 3. **Output**: The script will display:
