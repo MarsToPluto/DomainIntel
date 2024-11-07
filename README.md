@@ -1,5 +1,3 @@
-Here’s a draft for a `README.md` for **DomainIntel**:
-
 ---
 
 # DomainIntel
@@ -66,5 +64,3 @@ Domain: example.com
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ---
-
-Feel free to adjust as needed! Let me know if you want specific installation or usage details added.
